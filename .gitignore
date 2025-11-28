@@ -1,0 +1,10 @@
+datasets/*
+domains/
+domains.old/
+insights/
+threshold_tuning/
+unique_instances/
+.python_version
+.venv/
+script/
+notebooks/
