@@ -1,6 +1,6 @@
 # Quality Diversity Methods for Instance Generation
 
-$NS_{NN}$: Novelty Search with neural-network reduction proposed in GECCO '24. Traditional NS using a NN to search in an encoded 2D space (from 8D feature vectors)
+$NS_{meta}$: Novelty Search with neural-network reduction, the method uses an encoded 2d space (from 8d feature vectors)
 
 $NS_{f,i,p}$: Traditional Novelty Search Algorithm with two archives using features, instance or performance based descriptors to compute the novelty score ($s$).
 
@@ -14,7 +14,7 @@ All the experiments were run using [DIGNEApy](https://github.com/DIGNEA/DIGNEApy
 
 ## Data Available at Mendeley Data 
 
-Remember to cite the dataset if you use them.
+Remember to cite the datasets if you use them.
 
 - [Knapsack Instances](https://data.mendeley.com/preview/g3h2xcv8mf?a=91336b53-ee87-46a2-b654-4e68522ce3d9)
     > Marrero, Alejandro; Segredo, Eduardo; Leon, Coromoto; Hart, Emma (2025), “50-dimensional KP Instances from QD methods”, Mendeley Data, V2, doi: 10.17632/g3h2xcv8mf.2
