@@ -17,7 +17,9 @@ $DNS_{f,i,p}$: Archiveless NS with based on dominance using features, instance o
 $ME_{f,i,p}$: MapElites algorithm using the Centroidal Voronoi Tessellations (CVT).
 >Vassiliades, V., Chatzilygeroudis, K., & Mouret, J. B. (2017). Using centroidal voronoi tessellations to scale up the multidimensional archive of phenotypic elites algorithm. IEEE Transactions on Evolutionary Computation, 22(4), 623-630.
 
-All the experiments were run using [DIGNEApy](https://github.com/DIGNEA/DIGNEApy.git). Check [Metadata](./metadata.md) for the parameter setting of each method.
+All the experiments were run using [DIGNEApy](https://github.com/DIGNEA/DIGNEApy.git). The source code of the experiments can be found in the src directory.
+
+Check [Metadata](./supplementary/README.md) for the parameter setting of each method.
 
 ## Data Available at Mendeley Data 
 
