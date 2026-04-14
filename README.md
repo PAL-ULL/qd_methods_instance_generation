@@ -10,6 +10,7 @@ We observe that QD approaches based on Novelty Search (NS) combined with a featu
 ## Methods
 
 $NS_{f,i,p}$: Traditional Novelty Search Algorithm with two archives using features, instance or performance based descriptors to compute the novelty score ($s$).
+>Joel Lehman and Kenneth O. Stanley. 2011. Abandoning objectives: Evolution through the search for novelty alone. Evol. Comput. 19, 2 (Summer 2011), 189–223. https://doi.org/10.1162/EVCO_a_00025
 
 $DNS_{f,i,p}$: Archiveless NS with based on dominance using features, instance or performance based descriptors to compute the novelty score ($s$).
 >Bahlous-Boldi, R., Faldor, M., Grillotti, L., Janmohamed, H., Coiffard, L., Spector, L., & Cully, A. (2025). Dominated Novelty Search: Rethinking Local Competition in Quality-Diversity. arXiv preprint arXiv:2502.00593.
