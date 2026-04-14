@@ -32,7 +32,7 @@ jobs:
           path: "./docs"
       - name: Copy PDF files
         run: |
-          cp ./supplementary/NS_Instance_Generation_PPSN_supplementary.pdf ./docs/static/pdfs/supplementary.pdf
+          cp ./supplementary/NS_Instance_Generation_PPSN_supplementary.pdf ./docs/static/pdfs/
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
